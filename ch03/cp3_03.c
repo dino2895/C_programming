@@ -3,5 +3,6 @@ int main(){
 	int y ,d ,m;
 	printf("Enter a date (mm/dd/yyyy):");
 	scanf("%d/%d/%d" , &m ,&d ,&y);
+	printf("You entered the date ");
 	printf("%4d%02d%02d", y ,m ,d);
 }
