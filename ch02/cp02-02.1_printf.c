@@ -8,7 +8,7 @@ int main(){
     printf("       /___ \\\n");
     printf("       _/  |_");
 
-	//return 0;
+    return 0;
 }
 //請編寫一支程式，
 //運用printf排成下列圖案
