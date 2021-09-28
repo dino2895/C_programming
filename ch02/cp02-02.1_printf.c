@@ -1,11 +1,13 @@
 #include<stdio.h>
 int main(){
-	printf ('　　　　　_     v');
-	printf (' __　　 ．．    |');
-	printf ('|  |　( ('') )／*');
-	printf ('|__|__  /  \ ／');
-	printf ('       /___ \ ');
-	printf ('       _/  |_');
+	
+    printf("　　　　　_     v\n");
+    printf(" __　　 ．．    |\n");
+    printf("|  |　( ('') )／*\n");
+    printf("|__|__  /  \\ ／\n");
+    printf("       /___ \\\n");
+    printf("       _/  |_");
+
 	//return 0;
 }
 //請編寫一支程式，
